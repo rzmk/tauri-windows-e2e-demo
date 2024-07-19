@@ -1,0 +1,10 @@
+[package]
+name = "tauri-windows-e2e-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+fantoccini = "0.21.0"
+serde_json = "1.0.120"
+tokio = { version = "1.38.1", features = ["full"] }
