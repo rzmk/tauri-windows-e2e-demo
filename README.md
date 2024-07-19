@@ -2,7 +2,8 @@
 
 This is an example of end-to-end testing for a Tauri v2 Beta application on Windows. The test should successfully click the button in the app.
 
-![E2E demo](demo.gif)
+![E2E demo](https://github.com/user-attachments/assets/46e0b4ce-6077-41f4-bb2a-d264f8203b65)
+
 
 ## Prerequisites
 
